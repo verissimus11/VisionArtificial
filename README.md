@@ -35,6 +35,8 @@ Para levantar el contenedor, es necesario abrir el terminal (CMD) en la carpeta 
 2. **Busca la barra de dirección** en la parte superior de la ventana.
 3. Escribe `cmd` en la barra de dirección y presiona **Enter**.
    - Esto abrirá el terminal (CMD) directamente en la carpeta actual.
+    !(cmd.png)
+   
 4. Una vez abierto el terminal, puedes ejecutar el siguiente comando:
    ```bash
    docker-compose up -d
