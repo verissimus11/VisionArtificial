@@ -1,0 +1,10 @@
+services:
+  notebook:
+    image: "verissimus11/proyectovision:v1.0"
+    ports:
+      - "8888:8888"
+    volumes:
+      - ..:/home/jovyan/
+    user: root
+    environment:
+      - GRANT_SUDO=yes
