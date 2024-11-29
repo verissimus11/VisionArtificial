@@ -35,8 +35,27 @@ Para levantar el contenedor, es necesario abrir el terminal (CMD) en la carpeta 
 2. **Busca la barra de dirección** en la parte superior de la ventana.
 3. Escribe `cmd` en la barra de dirección y presiona **Enter**.
    - Esto abrirá el terminal (CMD) directamente en la carpeta actual.
-    !(cmd.png)
+   Inline-style:  
+![Abrir CMD](https://github.com/verissimus11/VisionArtificial/blob/main/cmd.png "Abrir CMD en Windows")
+
+
+[cmd]: https://github.com/verissimus11/VisionArtificial/blob/main/cmd.png "Abrir CMD en Windows"
+
    
 4. Una vez abierto el terminal, puedes ejecutar el siguiente comando:
    ```bash
    docker-compose up -d
+
+Después de ejecutar este comando:
+Para abrir Jupyter es de la siguiente manera.
+
+- Se abrirá el CMD de Docker.
+- En este CMD, aparecerá un enlace como el que se muestra en la imagen a continuación. Haz clic en ese enlace para continuar.
+
+![Abrir Juputer](https://github.com/verissimus11/VisionArtificial/blob/main/docker.png "Abrir Jupyter")
+
+
+[dockers]: https://github.com/verissimus11/VisionArtificial/blob/main/docker.png "Abrir Jupyter"
+
+5. Agradecerle al Dios gracias
+      ### Lis Gracias!!
